@@ -119,7 +119,7 @@ This will add 10 transactions to the queue by calling the API.
 
 ## Access components:
 **API client** can be accessed at: 
-http://0.0.0.0:8000/docs
+http://localhost:8000/docs
 
 using the API you can create transactions and you can find for a user the list of completed transactions.
 
